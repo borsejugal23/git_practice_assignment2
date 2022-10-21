@@ -5,10 +5,10 @@ for(i=N-1;i>=0;i--){
     
 }
 if(nstr==str){
-    console.log("No");
+    console.log("Yes");
 }
 else{
-   console.log("Yes");
+   console.log("No");
 }
 
 
