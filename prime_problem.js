@@ -6,7 +6,7 @@ for (i=0;i<=13;i++){
         
 
     }
-}if (count>=2){
+}if (count==2){
     console.log("it's a prime number");
 }else{
     console.log("it not a prime number")
